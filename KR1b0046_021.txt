@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 欽定書經傳說彙纂
-#+DATE: 2015-09-23 09:36:17
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:03:30.820795
+#+PROPERTY: ID KR1b0046
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九
 <pb:KR1b0046_WYG_021-1a>¶
 　欽定四庫全書¶
 欽定書經傳説彚纂卷十九¶
@@ -722,4 +724,3 @@
 　¶
 　¶
 欽定書經傳說彚纂卷十九¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 欽定書經傳說彙纂
-#+DATE: 2015-09-23 09:36:16
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:03:30.303772
+#+PROPERTY: ID KR1b0046
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷首上
 <pb:KR1b0046_WYG_001-1a>¶
 　欽定四庫全書¶
 欽定書經傳說彚纂卷首上¶
@@ -446,4 +448,3 @@
 　¶
 　¶
 欽定書經傳説彚纂卷首上¶
-
